@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 初探世界的大学牲一只，喜欢没事写写代码、折腾电脑
 
-想在Gayhub(不是)找到更多同道之人...要是大佬那就更好了！
+想在Gayhub(不是)找到更多同行者...要是大佬那就更好了！
