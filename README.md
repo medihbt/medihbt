@@ -9,5 +9,5 @@ medihbt/medihbt is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-初探世界的高中毕业生一枚，喜欢没事写写代码、折腾电脑
+初探世界的大学牲一只，喜欢没事写写代码、折腾电脑
 
